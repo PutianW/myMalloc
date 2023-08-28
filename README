@@ -1,0 +1,5 @@
+This is a malloc function:
+
+The allocator will request large chunks of memory from the OS and manage the memory efficiently.
+
+This version of malloc function is built based on the DLMalloc and PTMalloc.
